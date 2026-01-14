@@ -29,12 +29,122 @@ public class RobotInstructions  {
 		 * You will add instructions at the end of the code to cause the support.robot to move
 		 * as you desire.
 		 */
-		robot.forward(60);
-		robot.forward(60);
-		robot.turnLeft(90);
-		robot.forward(23);
-		robot.turnRight(90);
+
+
+
+		robot.turnRight(180);
+		robot.forward(80);	//30+50
+		robot.turnLeft(60);
+		robot.forward(30);
+		robot.turnLeft(30);
 		robot.forward(80);
+		robot.turnLeft(30);
+		robot.forward(30);
+		robot.turnLeft(60);
+		robot.forward(30);
+		robot.turnLeft(90);
+		robot.forward(130);
+		robot.turnRight(90);
+		robot.forward(50);
+		robot.turnRight(90);
+		robot.forward(130);
+		robot.turnRight(90);
+		robot.forward(50);
+		robot.turnRight(180);
+		robot.forward(100);
+		//bulb right side curve
+		robot.turnRight(20);
+		robot.forward(20);
+		robot.turnRight(20);
+		robot.forward(20);
+		robot.turnRight(20);
+		robot.forward(30);
+		robot.turnLeft(10);
+		robot.forward(30);
+		robot.turnLeft(20);
+		robot.forward(40);
+		robot.turnLeft(10);
+		robot.forward(60);
+		robot.turnLeft(20);
+		robot.forward(40);
+		robot.turnLeft(20);
+		robot.forward(40);
+		robot.turnLeft(20);
+		robot.forward(40);
+		robot.turnLeft(20);
+		robot.forward(40);
+		robot.turnLeft(20);
+		robot.forward(30);
+		robot.turnLeft(5);
+		robot.forward(30);
+		robot.turnLeft(5);
+		robot.forward(62);
+		//bulb left side curve
+		robot.turnLeft(5);
+		robot.forward(30);
+		robot.turnLeft(5);
+		robot.forward(30);
+		robot.turnLeft(20);
+		robot.forward(40);
+		robot.turnLeft(20);
+		robot.forward(40);
+		robot.turnLeft(20);
+		robot.forward(40);
+		robot.turnLeft(20);
+		robot.forward(40);
+		robot.turnLeft(20);
+		robot.forward(60);
+		robot.turnLeft(10);
+		robot.forward(40);
+		robot.turnLeft(20);
+		robot.forward(30);
+		robot.turnRight(10);
+		robot.forward(30);
+		robot.turnRight(20);
+		robot.forward(20);
+		robot.turnRight(20);
+		robot.forward(56);
+		robot.turnLeft(90);
+		//filament
+		robot.forward(58);
+		robot.turnLeft(88);
+		robot.forward(150);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(35);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(5);
+		robot.turnLeft(30);
+		robot.forward(150);
 	}
 
 }
